@@ -6,7 +6,7 @@ Data Science and Analytic Portfolio
 + Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
 + Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 +Built a client facing API using flask
-![](https://github.com/Sakil-Mahmud0/Sakil_Portfolio/blob/main/images/201371874_2913849622207668_5450318775369749505_n.jpg)
+![](/images/201371874_2913849622207668_5450318775369749505_n.jpg)
 
 
 # Project 2: BAll images Classifier
