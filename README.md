@@ -7,7 +7,6 @@ Data Science and Analytic Portfolio
 + Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 +Built a client facing API using flask
 ![](https://github.com/Sakil-Mahmud0/Sakil_Portfolio/blob/main/images/201371874_2913849622207668_5450318775369749505_n.jpg)
-https://github.com/Sakil-Mahmud0/Sakil_Portfolio/blob/main/images/201371874_2913849622207668_5450318775369749505_n.jpg
 
 
 # Project 2: BAll images Classifier
